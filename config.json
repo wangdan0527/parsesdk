@@ -1,0 +1,8 @@
+{
+  "appId": "za6uzD6NSUgIZrHOQf1OZhnVab74JhtyvByU90TN",
+  "masterKey": "v4kPcjFW35f7vUHx8TG9oE3GUGdHQx3KlUA71Sj4",
+  "appName": "notepad",
+  "cloud": "./cloud/main",
+  "databaseURI": "mongodb://wangdan:qwert123@ds235418.mlab.com:35418/notepad"
+}
+	
